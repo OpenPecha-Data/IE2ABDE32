@@ -1,10 +1,10 @@
-|P004142|རྒྱལ་སྲས་ཐོགས་མེད་ཀྱི་བཀའ་འབུམ་ཐོར་བུ། 
+|IE2ABDE32|རྒྱལ་སྲས་ཐོགས་མེད་ཀྱི་བཀའ་འབུམ་ཐོར་བུ། 
 | --- | --- 
 |Alternative Title |རྒྱལ་བའི་སྲས་འཕགས་པ་དངུལ་ཆུ་ཐོགས་མེད་ཀྱི་རྣམ་ཐར་དད་པའི་ཤིང་རྟ་དང་གསུང་འབུམ་ཐོར་བུ།
 |Author| རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ།
 |BDRC ID | W2CZ6641
 |Creator | Google OCR
 |Number of Volumes| 1
-|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/P004142)
-|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P004142/releases/download/v1/gyalse_tokme_kyi_kabum_torbu_plain_P004142.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P004142/releases/download/v1/gyalse_tokme_kyi_kabum_torbu_pages_P004142.zip)
+|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/IE2ABDE32)
+|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/IE2ABDE32/releases/download/v1/gyalse_tokme_kyi_kabum_torbu_plain_IE2ABDE32.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/IE2ABDE32/releases/download/v1/gyalse_tokme_kyi_kabum_torbu_pages_IE2ABDE32.zip)
 |<img width="25" src="https://img.icons8.com/plasticine/100/000000/pictures-folder.png"/>  Source Images | [<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Images of text file open in BUDA](https://library.bdrc.io/show/bdr:W2CZ6641)
